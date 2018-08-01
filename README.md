@@ -1,4 +1,4 @@
-# 웹서버 만들기
+# Naver Hackday 웹서버 만들기
 ### 기본 목표
 *	serve static file over HTTP
 *	serve dynamic generated content over HTTP
